@@ -1,3 +1,5 @@
 Primeira alteração.
 
 O Alexandre carlos de jesus é um professor de engenharia de desisgn front-end, atualmente ele está nos ensinando a utilizar o git/GitHub, como por exemplo criar um arquivo, um repositório, e após isso, mandar o arquivo e suas devidas alterações por linhas de comando no git, ele explicou muito bem os primeiros fundamentos do git e sempre tenta auxiliar os alunos que estão passando por dificuldades para utilizar a ferramenta.
+
+adicionando outra frase
